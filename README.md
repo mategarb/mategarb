@@ -13,5 +13,5 @@
   *Frontiers in Genetics*, 12, 618277.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mategarb&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mategarb&layout=compact&hide=javascript,html,css)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mategarb)](https://git.io/streak-stats)
