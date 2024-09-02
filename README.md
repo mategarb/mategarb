@@ -14,3 +14,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mategarb&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mategarb)](https://git.io/streak-stats)
