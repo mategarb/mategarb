@@ -5,6 +5,8 @@
 - 🏴‍☠️ I love writing in R
 - 🥏 My free-time is playing frisbee golf 
 #### Selected articles
+- Garbulowski et al. 2024. “GeneSPIDER2: large scale GRN simulation and benchmarking with perturbed single-cell data”
+*NAR GAB*, 6, 3, lqae121.
 
 - Garbulowski et al. 2021. “R. ROSETTA: an interpretable machine learning framework”
 *BMC bioinformatics*, 22, 1--18.
