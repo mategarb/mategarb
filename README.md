@@ -18,8 +18,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mategarb&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<img src="{[BadgeURLHere](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)}" />
 
-![image]({https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white})
 ![image]({https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white})
 ![image]({https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white})
 ![image]({https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white})
