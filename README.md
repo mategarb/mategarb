@@ -4,7 +4,7 @@
 - 🧬 currently working on metagenomics and gene regulatory network inference
 - 🏴‍☠️ love R, but Python is not bad either
 - 🥏 my free-time is playing frisbee golf
--  
+
 #### Selected articles
 - Garbulowski et al. 2024. “GeneSPIDER2: large scale GRN simulation and benchmarking with perturbed single-cell data”
 *NAR GAB*, 6, 3, lqae121.
