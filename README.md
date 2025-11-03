@@ -15,6 +15,6 @@
 - Garbulowski et al. 2021. “Interpretable machine learning reveals dissimilarities between subtypes of autism spectrum disorder”
   *Frontiers in Genetics*, 12, 618277.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mategarb&layout=compact&hide=javascript,html,css)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mategarb&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mateusz stats](https://github-readme-stats.vercel.app/api/wakatime?username=mategarb)](https://github.com/anuraghazra/github-readme-stats)
