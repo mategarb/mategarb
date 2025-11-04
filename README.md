@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Mateusz. I do bioinformatics! 
+## Hi there 👋
 
 **About me**
 - 🧬 currently working on metagenomics and gene regulatory network inference
